@@ -1,0 +1,113 @@
+
+#packageindia{
+    display: inline-block;
+    
+    
+}
+.meriimages{
+    display: inline-block;
+    position: relative;
+    left: 18px;
+    top: 12px;
+}
+#textpackage {
+    
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    position: relative;
+    font-family: 'Otomanopee One', sans-serif;
+    right: -178px;
+    text-shadow: 2px 0 black;
+    font-size: 51px;
+    height: 49px;
+    border-radius: 42px;
+    color: #03a9f4;
+    text-shadow: 2px -2px 0 #673ab7;
+}
+.moreaboutpackage1{
+    display: inline-block;
+    background-image: url(Background_giphy.gif);
+    height: 323px;
+    width: 356px;
+    /* border: 2px solid black; */
+    /* box-shadow: -8px 7px 0px #673ab7; */
+    border-radius: 4px;
+    position: relative;
+    left: 34px;
+    margin: 0px 6px;
+    
+}
+.moreaboutpackage2{
+    display: inline-block;
+    background-image: url(Background_giphy.gif);
+    height: 328px;
+    width: 354px;
+    /* border: 2px solid black; */
+    /* box-shadow: -8px 7px 0px #673ab7; */
+    border-radius: 4px;
+    position: relative;
+    left: -32px;
+    top:-1px;
+    margin: 0px 6px;
+    
+}
+.moreaboutpackage3{
+    display: inline-block;
+    /* background-image: url(Merapackage3.png); */
+    background-image: url(Background_giphy.gif);
+    height: 326px;
+    width: 353px;
+    /* border: 2px solid black; */
+    /* box-shadow: -8px 7px 0px #673ab7; */
+    border-radius: 4px;
+    position: relative;
+    left: 218px;
+    top:29px;
+    margin: 0px 6px;
+}
+.moreaboutpackage4{
+    display: inline-block;
+    background-image: url(Background_giphy.gif);
+    height: 325px;
+    width: 354px;
+    /* border: 2px solid black; */
+    /* box-shadow: -8px 7px 0px #673ab7; */
+    border-radius: 4px;
+    position: relative;
+    left: 360px;
+    top: 27px;
+    margin: 0px 6px;
+    
+}
+
+.moreaboutpackage:hover{
+   
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+.packageimage
+{
+    position: relative;
+    left: 590px;
+    bottom: 509px;
+    width: 150px;
+    height: 150px;
+    border-radius: 99px;
+    align-items: center;
+    text-align: center;
+    
+}
+/* .packageimagess{ */
+
+
+
+.bookme{
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+    bottom: -11px;
+    left: -293px;
+    width: 300px;
+    height: 100px;
+}

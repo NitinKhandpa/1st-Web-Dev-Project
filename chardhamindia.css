@@ -1,0 +1,63 @@
+
+#chardhamindia{
+    display: inline-block;
+    
+}
+#readchar {
+    
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    position: relative;
+    right: -178px;
+    top:-44px;
+    font-family: 'Fuggles', cursive;
+    text-shadow: 2px 0 black;
+    font-size: 88px;
+    height: 49px;
+    border-radius: 42px;
+    color: #03a9f4;
+    text-shadow: 2px -2px 0 #673ab7;
+}
+.moreabout{
+    display: inline-block;
+    background-image:url('charrdham_bgg.png');
+    height: 320px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 4px;
+    position: relative;
+    left: 22px;
+    margin: 0px 6px;
+    
+}
+
+.moreabout:hover{
+    background-image: url('chardhamhover.png');
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+.chdhamh3{
+    position: relative;
+    left:75px;
+}
+div i{
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+.merabtnchar a{
+    color:black;
+    
+    text-decoration: none;
+}
+
+.merabtnchar{
+    background-color: #fd9fbf;
+    border: 2px solid #fd9fbf;
+    border-radius: 4px;
+}
+
+.merabtnchar:hover{
+    background-color: transparent;
+    color: white;
+}
